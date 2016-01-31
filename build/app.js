@@ -42,12 +42,12 @@ var App = React.createClass({
             React.createElement(
                 'div',
                 { className: 'header' },
-                React.createElement(
-                    'div',
-                    { className: 'row' },
-                    React.createElement(
-                        'div',
-                        { className: 'four columns' },
+               // React.createElement(
+                //    'div',
+                //    { className: 'row' },
+              //      React.createElement(
+              //          'div',
+              //          { className: 'four columns' },
                         //React.createElement(
                            // Link,
                          //   { to: 'home' },

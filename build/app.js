@@ -42,18 +42,18 @@ var App = React.createClass({
             React.createElement(
                 'div',
                 { className: 'header' },
-               // React.createElement(
-                //    'div',
-                //    { className: 'row' },
-              //      React.createElement(
-              //          'div',
-              //          { className: 'four columns' },
+                React.createElement(
+                    'div',
+                    { className: 'row' },
+                    React.createElement(
+                        'div',
+                        { className: 'four columns' },
                         //React.createElement(
                            // Link,
                          //   { to: 'home' },
                        //     React.createElement('div', { className: 'logo' })
                      //   )
-                   // )
+                    )
                     //React.createElement(
                       //  'div',
                         //{ className: 'eight columns' },

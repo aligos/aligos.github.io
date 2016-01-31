@@ -4,7 +4,7 @@ var Home = React.createClass({
     displayName: 'Home',
 
     render: function render() {
-        var socials = [{ link: 'https://github.com/sonnylazuardi', icon: 'github' }, { link: 'http://linkedin.com/in/sonnylazuardi', icon: 'linkedin' }, { link: 'https://speakerdeck.com/sonnylazuardi', icon: 'slideshare' }, { link: 'http://twitter.com/sonnylazuardi', icon: 'twitter' }, { link: 'http://facebook.com/sonny.lazuardi', icon: 'facebook' }];
+        var socials = [{ link: 'https://github.com/aligos', icon: 'github' }, { link: 'http://linkedin.com/in/aligos', icon: 'linkedin' }, { link: 'https://speakerdeck.com/aligos', icon: 'slideshare' }, { link: 'http://twitter.com/aligos', icon: 'twitter' }, { link: 'http://facebook.com/matt.aligos', icon: 'facebook' }];
         return React.createElement(
             'div',
             { className: 'about' },
@@ -17,7 +17,7 @@ var Home = React.createClass({
             React.createElement(
                 'p',
                 { className: 'jumbo-desc' },
-                'Sonny Lazuardi - a web & mobile developer, open source contributor, Javascript fanboy'
+                'Aligos - JavaScript Fans'
             ),
             React.createElement(
                 'div',

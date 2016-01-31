@@ -1,2 +1,2 @@
-# sonnylab
-official website of sonnylab.com
+# Aligos
+official website of aligos.js.org

@@ -9,6 +9,9 @@ body {
 
 a {
   color: #F5683B; }
+img.aligos {
+  border-radius: 50%;
+}
 
 .example-leave {
   opacity: 1;

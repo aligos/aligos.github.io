@@ -15,7 +15,7 @@ var Home = React.createClass({
             React.createElement(
                 'h1',
                 { className: 'jumbo-title' },
-                'I create web & mobile apps.'
+                'just a stupid child, who was told to learn JavaScript.'
             ),
             React.createElement(
                 'p',

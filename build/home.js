@@ -8,7 +8,7 @@ var Home = React.createClass({
         return React.createElement(
             'div',
             { className: 'about' },
-            React.createElement('img', { {src: 'img/header.png'}, { className: 'gue'} }),
+            React.createElement('img', { className: 'gue'}, { src: 'img/header.png' }),
             React.createElement(
                 'h1',
                 { className: 'jumbo-title' },

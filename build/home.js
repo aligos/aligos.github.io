@@ -10,7 +10,7 @@ var Home = React.createClass({
             { className: 'about' },
             React.createElement(
                 'img',
-                { src: 'img/header.png' }
+                { src: 'img/header.png', className: 'aligos' }
             ),
             React.createElement(
                 'h1',

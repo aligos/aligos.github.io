@@ -20,7 +20,7 @@ var Home = React.createClass({
             React.createElement(
                 'p',
                 { className: 'jumbo-desc' },
-                'Aligos - JavaScript Fans'
+                'Aligos - I Love JavaScript'
             ),
             React.createElement(
                 'div',

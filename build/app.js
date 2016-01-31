@@ -1,27 +1,27 @@
 'use strict';
 
-var Menu = React.createClass({
-    displayName: 'Menu',
+//var Menu = React.createClass({
+//    displayName: 'Menu',
 
-    render: function render() {
-        var menus = [{ name: 'Home', link: '#home' }, { name: 'Portfolio', link: '#portfolio' }, { name: 'Article', link: '#article' }, { name: 'About', link: '#about' }];
-        return React.createElement(
-            'ul',
-            { className: 'menu' },
-            menus.map(function (item) {
-                return React.createElement(
-                    'li',
-                    null,
-                    React.createElement(
-                        'a',
-                        { href: item.link },
-                        item.name
-                    )
-                );
-            })
-        );
-    }
-});
+//    render: function render() {
+//        var menus = [{ name: 'Home', link: '#home' }, { name: 'Portfolio', link: '#portfolio' }, { name: 'Article', link: '#article' }, { name: 'About', link: '#about' }];
+//        return React.createElement(
+//            'ul',
+//            { className: 'menu' },
+//            menus.map(function (item) {
+//                return React.createElement(
+//                    'li',
+//                    null,
+//                    React.createElement(
+//                        'a',
+//                        { href: item.link },
+//                        item.name
+//                    )
+//                );
+//            })
+//        );
+//    }
+//});
 
 var ReactCSSTransitionGroup = React.addons.CSSTransitionGroup;
 var _ReactRouter = ReactRouter;

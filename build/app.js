@@ -48,11 +48,11 @@ var App = React.createClass({
                     React.createElement(
                         'div',
                         { className: 'four columns' },
-                        //React.createElement(
-                           // Link,
-                         //   { to: 'home' },
+                        React.createElement(
+                            Link,
+                            { to: 'home' },
                        //     React.createElement('div', { className: 'logo' })
-                     //   )
+                        )
                     )
                     //React.createElement(
                       //  'div',

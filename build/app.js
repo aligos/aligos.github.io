@@ -53,12 +53,12 @@ var App = React.createClass({
                             { to: 'home' },
                             React.createElement('div', { className: 'logo' })
                         )
-                    ),
-                    React.createElement(
-                        'div',
-                        { className: 'eight columns' },
-                        React.createElement(Menu, null)
                     )
+                    //React.createElement(
+                      //  'div',
+                        //{ className: 'eight columns' },
+                        //React.createElement(Menu, null)
+                    //)
                 )
             ),
             React.createElement(

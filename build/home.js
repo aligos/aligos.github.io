@@ -24,7 +24,7 @@ var Home = React.createClass({
             ),
             React.createElement(
                 'button',
-                { className: 'btn btn-default' },
+                { className: 'btn btn-default' href: '/fontline' },
                 'Font Line'
             ),
             React.createElement(

@@ -23,6 +23,11 @@ var Home = React.createClass({
                 'Aligos - I Love JavaScript'
             ),
             React.createElement(
+                'button',
+                { className: 'btn btn-default' },
+                'Font Line'
+            ),
+            React.createElement(
                 'div',
                 { className: 'social' },
                 socials.map(function (item) {

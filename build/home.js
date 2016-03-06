@@ -24,7 +24,7 @@ var Home = React.createClass({
             ),
             React.createElement(
                 'a',
-                { className: 'button', href: '/fontline' },
+                { className: 'button', href: '/fontline', target: '_blank' },
                 'Font Line'
             ),
             React.createElement(

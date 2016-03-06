@@ -23,7 +23,7 @@ var Home = React.createClass({
                 'Aligos - I Love JavaScript'
             ),
             React.createElement(
-                'button',
+                'a',
                 { className: 'btn btn-default', href: '/fontline' },
                 'Font Line'
             ),

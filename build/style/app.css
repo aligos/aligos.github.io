@@ -1,5 +1,8 @@
 body {
-  background: #FFFFFF; }
+    background-color: #F8FAEE;
+    background-image: url('http://i.imgur.com/xjeNeCc.png');
+    background-repeat: repeat;
+}
 
 .example-enter {
   opacity: 0.01;

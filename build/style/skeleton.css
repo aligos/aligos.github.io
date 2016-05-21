@@ -25,7 +25,10 @@ body {
   line-height: 1.6;
   font-weight: 400;
   font-family: "Montserrat", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #222; }
+  color: #222;
+  background-color: #F8FAEE;
+  background-image: url('http://i.imgur.com/xjeNeCc.png');
+  background-repeat: repeat; }
 
 a {
   color: #1eaedb; }

@@ -9,7 +9,7 @@ let Home = React.createClass({
         ]
         return (
             <div className="about">
-                <img src="img/header.png"/>
+                <img src="http://i.imgur.com/8OUm9am.jpg?1"/>
                 <h1 className="jumbo-title">I create web apps & mobile apps.</h1>
                 <p className="jumbo-desc">Rahmat ALigos JavaScript Fans</p>
 

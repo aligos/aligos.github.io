@@ -1,6 +1,6 @@
 {
-  "main.css": "static/css/main.e36b24e8.css",
-  "main.css.map": "static/css/main.e36b24e8.css.map",
-  "main.js": "static/js/main.7c51dd10.js",
-  "main.js.map": "static/js/main.7c51dd10.js.map"
+  "main.css": "votemonapp/static/css/main.e36b24e8.css",
+  "main.css.map": "votemonapp/static/css/main.e36b24e8.css.map",
+  "main.js": "votemonapp/static/js/main.7c51dd10.js",
+  "main.js.map": "votemonapp/static/js/main.7c51dd10.js.map"
 }
